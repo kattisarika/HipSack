@@ -215,14 +215,22 @@ body {
      width:50%;
 }
 .leftSection img{
-    width:100%;
-    height:100%;
+    width:30%;
+    height:60%;
     border:4px solid grey;
 }
 .rightSection{
-    text-align:right;  
+   width:50%;
+    text-align:right;
 }
-
+.rightSection p{
+  text-align:center;
+  text-transform:uppercase;
+  font-size:40px;
+}
+.rightSection ul li{
+    list-style:none;
+}
 
 /* Hovering menu */
 
