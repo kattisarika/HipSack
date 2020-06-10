@@ -1,4 +1,4 @@
-# portfolio-sarikekattie
-My portfolio
-
-I have learnt and done the project , per one of the instructors on LinkedIn. I used his files as the base files and modified it to suit my project. The instructors name I can't recollect but when I do, I will add his name in here.
+# HipSack
+Private Dorms or Studios
+A need for a  chain of ladies hostel is the reason to start Hip Sacks. 
+A rising population in single woman in the professional sector and in academics between the ages of 24 - 59 over the last few years face common problems of safe , secure accommodation and a sense of belongingness at an affordable p rice. 
